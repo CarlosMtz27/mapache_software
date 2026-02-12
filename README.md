@@ -154,7 +154,7 @@ Maven
 MariaDB Server corriendo
 
 ## Paso 1: Clonar el repositorio
-*git clone https://github.com/CarlosMtzRock/proyecto-mapache*
+*git clone https://github.com/CarlosMtz27/mapache_software*
 
 cd proyecto-final-mapeo
 o importar a IntelliJ IDEA
